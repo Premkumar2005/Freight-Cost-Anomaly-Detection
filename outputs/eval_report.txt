@@ -1,0 +1,3 @@
+Labeled rows correct: 9/9
+Decoys wrongly present: none
+Fabricated 'justified' rows: none

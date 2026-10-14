@@ -1,0 +1,4 @@
+6ac41593bbbd27eaf3cdac133c8b137a5ac909de8a21300531fadd1f348a1397  runs/run1.csv
+6ac41593bbbd27eaf3cdac133c8b137a5ac909de8a21300531fadd1f348a1397  runs/run2.csv
+6ac41593bbbd27eaf3cdac133c8b137a5ac909de8a21300531fadd1f348a1397  runs/run3.csv
+REPRODUCIBLE: 3 runs are byte-identical

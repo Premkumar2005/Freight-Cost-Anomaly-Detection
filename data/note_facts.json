@@ -1,0 +1,22 @@
+[
+  {"note_id":"N001","routes":["Chennai-Bangalore"],"effect":"raises_cost","window_start":"2025-02-24","window_end":"2025-03-08","persistence_weeks":null,"magnitude_pct":null,
+   "explanation":"heavy flooding on the Chennai-Bangalore highway forced detours and higher trip costs from Feb 24 to Mar 8"},
+  {"note_id":"N002","routes":["Ahmedabad-Mumbai"],"effect":"raises_cost","window_start":"2025-01-20","window_end":"2025-01-26","persistence_weeks":null,"magnitude_pct":null,
+   "explanation":"a regional festival week drove a temporary transporter surcharge on this corridor"},
+  {"note_id":"N003","routes":["*"],"effect":"raises_cost","window_start":"2025-05-05","window_end":null,"persistence_weeks":8,"magnitude_pct":[5.0,7.0],
+   "explanation":"nationwide diesel price rise from this week lifted costs on all routes by roughly 5-7%"},
+  {"note_id":"N004","routes":[],"effect":"no_cost_effect","window_start":"2024-03-11","window_end":null,"persistence_weeks":null,"magnitude_pct":null,
+   "explanation":"a new toll plaza opened, but on routes that are not part of this dataset"},
+  {"note_id":"N005","routes":["Mumbai-Delhi"],"effect":"no_cost_effect","window_start":"2024-07-29","window_end":"2024-08-04","persistence_weeks":null,"magnitude_pct":null,
+   "explanation":"highway maintenance caused minor delays but costs were not significantly affected"},
+  {"note_id":"N006","routes":["*"],"effect":"no_cost_effect","window_start":"2025-09-22","window_end":null,"persistence_weeks":null,"magnitude_pct":null,
+   "explanation":"an industry report found stable freight demand and no major disruptions"},
+  {"note_id":"N007","routes":["Delhi-Jaipur"],"effect":"no_cost_effect","window_start":"2024-05-20","window_end":null,"persistence_weeks":null,"magnitude_pct":null,
+   "explanation":"road conditions improved after resurfacing (not a reason for higher cost)"},
+  {"note_id":"N008","routes":["Kolkata-Bhubaneswar"],"effect":"no_cost_effect","window_start":"2025-06-09","window_end":null,"persistence_weeks":null,"magnitude_pct":null,
+   "explanation":"no significant disruptions; freight movement remained normal"},
+  {"note_id":"N009","routes":["Chennai-Bangalore"],"effect":"no_cost_effect","window_start":"2025-03-09","window_end":null,"persistence_weeks":null,"magnitude_pct":null,
+   "explanation":"the route returned to normal conditions after flood repairs (roads passable from Mar 9)"},
+  {"note_id":"N010","routes":["*"],"effect":"no_cost_effect","window_start":"2025-10-27","window_end":null,"persistence_weeks":null,"magnitude_pct":null,
+   "explanation":"a vehicle tracking mandate was absorbed by transporters without a rate change"}
+]
